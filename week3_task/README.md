@@ -1,20 +1,24 @@
-<<<<<<< HEAD
-# week3_task
 
-A new Flutter project.
+---
 
-## Getting Started
+### **week3_task/README.md**
+```markdown
+# Week 3 Task: Task Management App
 
-This project is a starting point for a Flutter application.
+## Description
+A functional Flutter app for managing tasks with better UI and features.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Task creation, update, and deletion
+- Local storage for tasks
+- Simple dashboard
+- Short video demo included
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-
->>>>>>> 7e89967a1f43af75ed7223b980072ee77fd98a0e
+## Setup Instructions
+1. Make sure Flutter SDK is installed.
+2. Clone this repo or download the folder.
+3. Open the project in VS Code or Android Studio.
+4. Run the app on an emulator or physical device:
+   ```bash
+   flutter pub get
+   flutter run
